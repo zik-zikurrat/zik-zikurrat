@@ -50,7 +50,7 @@ running on coffee, spite, and one (1) good error message
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
 </p>
 
-> Go for the money, Rust to feel something, C to remember why we have Go.
+> Go for the money, C to feel something, and Rust just because I like it.
 
 ---
 
