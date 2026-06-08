@@ -81,4 +81,4 @@ USDT · ERC-20 / Ethereum
 
 ---
 
-<p align="center"><sub>// TODO: write a funnier bio<br>// it's been here since 2023. the TODO is the bio now.</sub></p>
+<p align="center"><sub>// TODO: relocate from KZ<br>// it's been here since 2023. the TODO is the bio now.</sub></p>
