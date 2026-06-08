@@ -1,32 +1,38 @@
-<h1 align="center">Hi, I'm Zakariya</h1>
+<h1 align="center">yo, I'm Zakariya </h1>
 
 <p align="center">
-  <b>Backend engineer · distributed systems · low-level</b><br>
-  <sub>📍 Almaty, Kazakhstan</sub>
+  <b>backend guy who keeps saying "it's not a bug, it's distributed"</b><br>
+  <sub>📍 Almaty · runs Arch btw · sleeps optional</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Systems-Rust%20%2F%20C-orange?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-6f42c1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/works%20on-my%20machine-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/segfaults-character%20building-critical?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/prod-probably%20fine-yellow?style=for-the-badge">
 </p>
 
 ---
 
-### 🧠 About me
+### 🧠 whoami
 
-Backend developer who spends most of the time between business logic and the things beneath it — the goroutine scheduler, memory pages, and network packets.
+```bash
+$ whoami
+backend engineer (Go) by day, C memory crime scene investigator by night
 
-- 🔭 Building distributed systems: microservices, event-driven architectures, Kafka, sagas, delivery guarantees.
-- ⚙️ I like digging into the internals: schedulers, allocations, concurrency, how things *actually* work.
-- 🛠️ I learn by doing — writing data structures, an in-memory DB, and network services from scratch.
-- 🧗 Outside of code: bouldering, electronics, and Arduino/ESP32.
+$ cat ~/.life
+- I build distributed systems and then debug why they distributed too hard
+- I read Go source code for fun. this is a cry for help
+- I write C with AddressSanitizer because my pointers don't trust me either
+- "it compiled" is my love language
+
+$ uptime
+running on coffee, spite, and one (1) good error message
+```
 
 ---
 
-### 🚀 Stack
+### 🛠️ the stack (aka my coping mechanisms)
 
-**Languages**
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -34,45 +40,44 @@ Backend developer who spends most of the time between business logic and the thi
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 </p>
-
-**Frameworks & tools**
 <p>
-  <img src="https://img.shields.io/badge/Fiber-000000?style=flat-square&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white">
-</p>
-
-**Data & infrastructure**
-<p>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
 </p>
 
-**Environment**
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white">
-</p>
+> Go for the money, Rust to feel something, C to remember why we have Go.
 
 ---
 
-### 🔬 Currently working on
+### 📺 currently
 
-- Implementing Go-style data structures in pure C (dynamic slice/vector, `gcc` + AddressSanitizer).
-- Going deep into Go internals: the G-M-P scheduler, channels (`hchan`/`sudog`), maps (bucket-based and Swiss Tables).
-- Building learning services from scratch: an in-memory KV store with WAL, a TCP server, a gRPC SSO service.
+- 🔬 reimplementing Go data structures in C, so the segfaults feel *handcrafted*
+- 🧵 reading the Go scheduler internals at hours no human should be awake
+- 🗄️ built an in-memory DB with a WAL because regular DBs were too emotionally stable
+- 🧗 touching grass (it's a bouldering wall, but technically grass-adjacent)
+- 📺 starting "one episode" → finishing the season. the saga always completes, unlike my Kafka ones
 
 ---
 
-### 📊 Stats
+### 🐛 my debugging process
+
+```
+1. that's impossible
+2. that shouldn't be possible
+3. why is it doing that
+4. oh.
+5. (deletes 3 lines, ships it, runs)
+```
+
+---
+
+### 📊 receipts
+
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zpolev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
@@ -85,4 +90,4 @@ Backend developer who spends most of the time between business logic and the thi
 
 ---
 
-<p align="center"><sub>"If you don't understand how it works under the hood — you just haven't read far enough yet."</sub></p>
+<p align="center"><sub>// TODO: write a funnier bio<br>// it's been here since 2023. the TODO is the bio now.</sub></p>
