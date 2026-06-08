@@ -1,8 +1,8 @@
-<h1 align="center">yo, I'm Zakariya </h1>
+<h1 align="center">yo, I'm Zakariya</h1>
 
 <p align="center">
-  <b>backend engineer</b><br>
-  <sub>📍 Almaty · runs Arch btw · make out hell</sub>
+  <b>backend engineer · climber · aspiring real-world Factorio enjoyer</b><br>
+  <sub>📍 Almaty · runs Arch btw · windows is a skill issue</sub>
 </p>
 
 <p align="center">
@@ -13,22 +13,16 @@
 
 ---
 
-### 🧠 whoami
+### whoami
 
-```bash
-$ whoami
-backend engineer (Go) by day, C memory crime scene investigator by night
+I'm a backend engineer backend is the love of my life. By day I keep distributed
+systems from distributing too hard; by night I solder things and pretend I'm in Factorio,
+just with worse spaghetti.
 
-$ cat ~/.life
-- I build distributed systems and then debug why they distributed too hard
-- I read Go source code for fun. this is a cry for help
-- I write C with AddressSanitizer because my pointers don't trust me either
-- "it compiled" is my love language
-
-$ uptime
-running on coffee, spite, and one (1) good error message
-```
-
+- athlete + boulderer - loves to touch grass, vertically
+- building stuff with Arduino / ESP32 / Raspberry Pi (some of it even works)
+- love writing rough code and then fixing it 
+- i draw boxes and arrows for a living.
 ---
 
 ### 🛠️ the stack (aka my coping mechanisms)
@@ -50,7 +44,7 @@ running on coffee, spite, and one (1) good error message
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
 </p>
 
-> Go for the money, C to feel something, and Rust just because I like it.
+> Go for the money, C to feel something, Rust just because I like it.
 
 ---
 
@@ -59,25 +53,22 @@ running on coffee, spite, and one (1) good error message
 - 🔬 reimplementing Go data structures in C, so the segfaults feel *handcrafted*
 - 🧵 reading the Go scheduler internals at hours no human should be awake
 - 🗄️ built an in-memory DB with a WAL because regular DBs were too emotionally stable
-- 🧗 touching grass (it's a bouldering wall, but technically grass-adjacent)
-- 📺 starting "one episode" → finishing the season. the saga always completes, unlike my Kafka ones
+- 📺 "one episode" → whole season. the saga always completes, unlike my Kafka ones
 
 ---
 
-### 🐛 my debugging process
+### ☕ fuel the chaos
+
+If something here made you laugh (or you just want to keep the segfaults coming):
 
 ```
-1. that's impossible
-2. that shouldn't be possible
-3. why is it doing that
-4. oh.
-5. (deletes 3 lines, ships it, runs)
+USDT · ERC-20 / Ethereum
+0x79ad1CE2e394546AF1DD538bD4f23a8Fdb7Ba94d
 ```
 
 ---
 
 ### 📊 receipts
-
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zpolev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
