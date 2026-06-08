@@ -1,8 +1,8 @@
 <h1 align="center">yo, I'm Zakariya </h1>
 
 <p align="center">
-  <b>backend guy who keeps saying "it's not a bug, it's distributed"</b><br>
-  <sub>📍 Almaty · runs Arch btw · sleeps optional</sub>
+  <b>backend engineer</b><br>
+  <sub>📍 Almaty · runs Arch btw · make out hell</sub>
 </p>
 
 <p align="center">
