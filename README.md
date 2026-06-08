@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zakariya 👋</h1>
+<h1 align="center">Hi, I'm Zakariya</h1>
 
 <p align="center">
   <b>Backend engineer · distributed systems · low-level</b><br>
@@ -74,14 +74,13 @@ Backend developer who spends most of the time between business logic and the thi
 
 ### 📊 Stats
 
-<!-- 👉 replace YOUR_USERNAME with your github handle -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zpolev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zpolev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zpolev&theme=tokyonight&hide_border=true">
 </p>
 
 ---
