@@ -44,7 +44,7 @@ just with worse spaghetti.
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
 </p>
 
-> Go for the money, C to feel something, Rust just because I like it.
+> Go for the money, C/С++ to feel something, Rust just because I like it.
 
 ---
 
