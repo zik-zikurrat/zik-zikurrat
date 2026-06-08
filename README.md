@@ -57,7 +57,7 @@ just with worse spaghetti.
 
 ---
 
-### ☕ fuel the chaos
+### 🍩 Donuts for my pussies
 
 If something here made you laugh (or you just want to keep the segfaults coming):
 
