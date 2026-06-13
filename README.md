@@ -1,4 +1,4 @@
-<h1 align="center">yo, I'm Zakariya</h1>
+<h1 align="center">yo, I'm Zak</h1>
 
 <p align="center">
   <b>backend engineer · climber · aspiring real-world Factorio enjoyer</b><br>
