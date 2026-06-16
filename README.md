@@ -71,12 +71,12 @@ USDT · ERC-20 / Ethereum
 ### 📊 receipts
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zpolev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zpolev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zik-zikurrat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zik-zikurrat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zpolev&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zik-zikurrat&theme=tokyonight&hide_border=true">
 </p>
 
 ---
