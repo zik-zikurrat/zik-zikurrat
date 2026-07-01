@@ -53,7 +53,7 @@ just with worse spaghetti.
 - 🔬 reimplementing Go data structures in C, so the segfaults feel *handcrafted*
 - 🧵 reading the Go scheduler internals at hours no human should be awake
 - 🗄️ built an in-memory DB with a WAL because regular DBs were too emotionally stable
-- 📺 "one episode" → whole season. the saga always completes, unlike my Kafka ones
+- 📺 "one episode" -> whole season. the saga always completes...
 
 ---
 
