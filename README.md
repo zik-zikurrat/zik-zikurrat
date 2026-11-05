@@ -62,8 +62,8 @@ just with worse spaghetti.
 If something here made you laugh (or you just want to keep the segfaults coming):
 
 ```
-USDT · ERC-20 / Ethereum
-0x79ad1CE2e394546AF1DD538bD4f23a8Fdb7Ba94d
+USDT · TRC20 / Tron
+TEXxyB4zF6frMK7XVADaNV1fGUh4Euw67d
 ```
 
 ---
